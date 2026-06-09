@@ -1,0 +1,14 @@
+name: "My Website"
+output_dir: "docs"
+navbar:
+  title: "My Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    css: style.css

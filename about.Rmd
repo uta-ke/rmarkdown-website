@@ -1,0 +1,14 @@
+---
+title: "About"
+output:
+  html_document:
+    css: style.css
+---
+
+# About This Site
+
+Welcome to my website. 
+
+This website presents some of my course work. The site was created using RMarkdown and the `render_site()` function, demonstrating how reproducible research and web publishing can be combined in a simple workflow. 
+
+Find the source on [GitHub](https://uta-ke.github.io/rmarkdown-website/).

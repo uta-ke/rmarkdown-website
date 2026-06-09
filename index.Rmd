@@ -1,0 +1,17 @@
+---
+title: "Home"
+output: 
+  html_document:
+    css: style.css
+---
+
+# Welcome 
+
+Hello and welcome to my website!
+
+This is my first try to build a website.
+
+```{r echo=FALSE}
+plot(cars)
+```
+

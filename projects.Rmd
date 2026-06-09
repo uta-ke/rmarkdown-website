@@ -1,0 +1,16 @@
+---
+title: "Projects"
+output: 
+  html_document:
+    css: sytle.css
+---
+
+# Projects
+
+This page demonstrates different types of content that can be integrated into an RMarkdown website.
+
+- Data Visualization
+- Reproducible Research
+- Interactive Dashboards
+
+Additional examples, figures, and code outputs can be added to further customize the website.
